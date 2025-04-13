@@ -146,7 +146,7 @@ This architecture provides a good balance between model complexity and performan
 
 ## License
 
-[Your license information here]
+WTFPL
 
 ## Acknowledgments
 
