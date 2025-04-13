@@ -44,8 +44,6 @@ The model is trained on the Devanagari Handwritten Character Dataset, which cont
 
 The trained model demonstrates excellent performance on the test dataset:
 
-[Confusion matrix image will be placed here]
-
 ### Evaluation Results:
 - High accuracy across all character classes
 - Minimal confusion between visually similar characters
