@@ -1,6 +1,6 @@
 # Devanagari Handwritten Character Recognition - Training Framework
 ### [Live browser inference](https://dcda-v2.vercel.app/)
-This project implements a convolutional neural network (CNN) for recognizing handwritten Devanagari characters and digits. The repository contains the training and evaluation code that achieves high accuracy on the test set.
+This project implements a convolutional neural network (CNN) for recognizing handwritten Devanagari characters and digits. The repository contains the training and evaluation code that achieves high accuracy on the test set. Collaborators are welcome for working on upcoming iterations of this project :)
 
 ## Overview
 
